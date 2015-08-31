@@ -1,0 +1,30 @@
+.rich-summary {
+  width: 100%;
+  padding: 0;
+  margin-bottom: 1em; }
+  .rich-summary .poster {
+    width: 100%;
+    height: 10em;
+    background-position: center;
+    background-size: cover; }
+    .rich-summary .poster a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      text-decoration: none; }
+  .rich-summary .img-thumb {
+    width: 2em;
+    height: 2em;
+    padding: 0;
+    margin: 0.5em 0 0.5em 0.5em;
+    float: right;
+    background-position: center;
+    background-size: cover; }
+  .rich-summary a {
+    color: inherit;
+    text-decoration: inherit; }
+
+.rich-summary:hover {
+  background-color: #FCFCF4; }
+
+/*# sourceMappingURL=styles.css.map */

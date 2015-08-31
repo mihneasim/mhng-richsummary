@@ -1,0 +1,21 @@
+{
+  "name": "mhng-richsummary",
+  "homepage": "https://github.com/mihneasim/mhng-richsummary",
+  "authors": [
+    {"name": "Mihnea Simian", "email": "contact@mesimian.com"}
+  ],
+  "description": "bowered richSummary angular directive from mihneasim/mhng",
+  "main": [
+    "dirRichSummary.js",
+    "styles.scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1"
+  }
+}
