@@ -7,7 +7,7 @@
   "description": "bowered richSummary angular directive from mihneasim/mhng",
   "main": [
     "dirRichSummary.js",
-    "styles.scss"
+    "styles.css"
   ],
   "license": "MIT",
   "ignore": [
